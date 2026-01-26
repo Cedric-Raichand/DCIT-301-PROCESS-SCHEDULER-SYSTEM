@@ -77,9 +77,9 @@ This design ensures scalability, maintainability, and ease of testing.
 
 Programming Language: Python
 
-GUI Library: Tkinter (optional)
+GUI Library: Tkinter 
 
-Visualization: Matplotlib (optional)
+Visualization: Matplotlib
 
 Version Control: Git & GitHub
 
