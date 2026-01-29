@@ -129,13 +129,13 @@ python main.py
 
 📊 Performance Metrics Evaluated
 
-Average Waiting Time
+1. Average Waiting Time
 
-Average Turnaround Time
+2. Average Turnaround Time
 
-CPU Utilization
+3. CPU Utilization
 
-Throughput
+4. Throughput
 
 
 These metrics are used to compare the effectiveness of each scheduling algorithm.
