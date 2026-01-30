@@ -9,7 +9,7 @@ The system allows users to simulate process execution, observe scheduling behavi
 
 ---
 
-🎯 Objectives
+🎯 Objectives:
 
 Implement and analyze traditional CPU scheduling algorithms
 
@@ -23,7 +23,7 @@ Compare performance using standard evaluation metrics
 
 ---
 
-⚙️ Features
+⚙️ Features:
 
 Simulation of multiple CPU scheduling algorithms
 
