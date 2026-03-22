@@ -197,4 +197,4 @@ DCIT 301 – Operating Systems
 
 📜 License
 
-This project is for academic purposes only.
+This project is for academic purpose only.
