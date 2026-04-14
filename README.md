@@ -35,8 +35,6 @@ Optional graphical interface (Tkinter)
 
 Clear separation of scheduling logic and data handling
 
-
-
 ---
 
 🧠 Scheduling Algorithms Implemented
@@ -48,7 +46,6 @@ Shortest Job First (SJF)
 Round Robin (RR)
 
 Intelligent / Predictive Scheduler (Proposed)
-
 
 
 ---
