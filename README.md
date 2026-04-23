@@ -1,4 +1,4 @@
-#DCIT 301 – Process Scheduler System
+DCIT 301 – Process Scheduler System
 
 📌 Project Overview
 
@@ -54,7 +54,7 @@ Intelligent / Predictive Scheduler (Proposed)
 
 The system follows a modular architecture consisting of:
 
-User Interface (CLI / GUI)
+A clean User Interface (CLI / GUI)
 
 Scheduler Core
 
@@ -158,7 +158,7 @@ Does not fully simulate I/O blocking or multi-core environments
 
 🔮 Future Enhancements
 
-Integration of advanced machine learning models
+Integration of advanced machine learning models and Artificial Intelligence 
 
 Support for real-time and priority-based scheduling
 
