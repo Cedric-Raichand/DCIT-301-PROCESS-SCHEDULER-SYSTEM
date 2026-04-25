@@ -37,7 +37,7 @@ Clear separation of scheduling logic and data handling
 
 ---
 
-🧠 Scheduling Algorithms Implemented
+🧠 Scheduling Algorithms Implemented:
 
 First Come First Serve (FCFS)
 
@@ -50,7 +50,7 @@ Intelligent / Predictive Scheduler (Proposed)
 
 ---
 
-🏗️ System Architecture
+🏗️ Overall System Architecture
 
 The system follows a modular architecture consisting of:
 
