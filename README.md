@@ -4,6 +4,7 @@ DCIT 301 – Process Scheduler System
 
 The Process Scheduler System is a CPU scheduling simulation developed as part of DCIT 301 (Operating Systems). The project implements and evaluates traditional CPU scheduling algorithms and introduces an intelligent scheduling approach aimed at improving performance in dynamic workloads.
 
+
 The system allows users to simulate process execution, observe scheduling behavior, and analyze performance metrics such as waiting time, turnaround time, and CPU utilization.
 
 
