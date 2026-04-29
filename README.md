@@ -173,7 +173,7 @@ Multi-core CPU scheduling simulation
 
 👨‍💻 Contributors
 
-CEDRIC 22046156
+CEDRIC RAICHAND 22046156
 
 OWUSU SARFO 22078485
 
